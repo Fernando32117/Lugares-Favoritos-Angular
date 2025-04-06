@@ -1,0 +1,79 @@
+{
+  "categorias": [
+    {
+      "id": "2",
+      "nome": "Shopping",
+      "descricao": "Compras e passeio"
+    },
+    {
+      "nome": "Restaurantes",
+      "descricao": "Lugares para alimentação",
+      "id": "ab42"
+    },
+    {
+      "id": "00d1",
+      "nome": "Praias",
+      "descricao": "Lugares para banhar com a família"
+    },
+    {
+      "id": "df78",
+      "nome": "Parques",
+      "descricao": "Parques para passear com família e amigos"
+    },
+    {
+      "id": "df89",
+      "nome": "Hotel",
+      "descricao": "Hotéis para hospedagem"
+    }
+  ],
+  "lugares": [
+    {
+      "id": "6168",
+      "nome": "Shopping Alameda",
+      "categoria": "Shopping",
+      "localizacao": "Taguatinga, Brasília - DF",
+      "urlFoto": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/ca/36/be/fachada-do-alameda-shopping.jpg?w=1200&h=1200&s=1",
+      "avaliacao": "2"
+    },
+    {
+      "id": "7563",
+      "nome": "Coco Bambu",
+      "categoria": "Restaurantes",
+      "localizacao": "Lago Sul, Brasília - DF",
+      "urlFoto": "https://brasilia.deboa.com/wp-content/uploads/2022/07/Coco-Bambu-taguatinga-Shopping_deboa-Brasilia.jpg",
+      "avaliacao": "3"
+    },
+    {
+      "id": "6532",
+      "nome": "Hotel Ibis",
+      "categoria": "Hotel",
+      "localizacao": "Aeroporto de Brasília, Brasília - DF",
+      "urlFoto": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/137504069.jpg?k=7f68b212ab890adf6ad9fc9c1957e7a301809f7f5f8e553f89e2604d9cc42c42&o=&hp=1",
+      "avaliacao": "4"
+    },
+    {
+      "id": "9854",
+      "nome": "Praia do Gunga",
+      "categoria": "Praias",
+      "localizacao": "Jatiúca, Maceió - AL",
+      "urlFoto": "https://passeiosemalagoas.com.br/wp-content/uploads/elementor/thumbs/praia-do-gunga-fotos-01-q1g4vg6pn0q4ygu9n6z42ttze5745wnmlu0aue0mtw.jpg",
+      "avaliacao": "5"
+    },
+    {
+      "id": "1254",
+      "nome": "Parque da Cidade Sarah Kubitschek",
+      "categoria": "Parques",
+      "localizacao": "SRPS - Brasília - DF",
+      "urlFoto": "https://visitebrasilia.com.br/images/2022/05/20220503155157_l_Parquedacidade.jpg",
+      "avaliacao": "1"
+    },
+    {
+      "id": "2222",
+      "nome": "Pátio Brasil Shopping",
+      "categoria": "Shopping",
+      "localizacao": "SCS Q.7 BLA - Asa Sul, Brasília - DF",
+      "urlFoto": "https://brasiliadetodos.com/wp-content/uploads/2022/06/Patio_Telmo-Ximenes-3-1024x683.jpeg",
+      "avaliacao": "4"
+    }
+  ]
+}

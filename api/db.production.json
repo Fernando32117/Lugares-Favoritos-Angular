@@ -1,0 +1,39 @@
+{
+  "categorias": [
+    {
+      "id": "2",
+      "nome": "Shopping",
+      "descricao": "Compras e passeio"
+    },
+    {
+      "nome": "Restaurantes",
+      "descricao": "Lugares para alimentação",
+      "id": "ab42"
+    },
+    {
+      "id": "00d1",
+      "nome": "Praias",
+      "descricao": "Lugares para banhar com a família"
+    },
+    {
+      "id": "df78",
+      "nome": "Parques",
+      "descricao": "Parques para passear com família e amigos"
+    },
+    {
+      "id": "df89",
+      "nome": "Hotel",
+      "descricao": "Hotéis para hospedagem"
+    }
+  ],
+  "lugares": [
+    {
+      "id": "6168",
+      "nome": "Shopping Alameda",
+      "categoria": "Shopping",
+      "localizacao": "Taguatinga, Brasília - DF",
+      "urlFoto": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/ca/36/be/fachada-do-alameda-shopping.jpg?w=1200&h=1200&s=1",
+      "avaliacao": "2"
+    }
+  ]
+}
