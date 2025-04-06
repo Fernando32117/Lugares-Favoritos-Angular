@@ -1,59 +1,83 @@
-# PasseioApp
+# 📌 Lugares Favoritos - Angular
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.6.
+## 🚀 Sobre o Projeto
 
-## Development server
+Este é um projeto desenvolvido durante o curso de Angular 19 na Udmey, buscando aprimorar as minhas habilidades nesse poderoso framework juntamente com uma estilização aprimorada. O projeto permite **logar com Google**, cadastrar **categorias** para os lugares, cadastrar os **lugares** e visualizar os lugares cadastrados.
 
-To start a local development server, run:
+---
 
+## 🎯 Funcionalidades Principais
+
+✅ **Logar com Google**.
+✅ **Cadastrar categorias**.
+✅ **Cadastrar lugares**.
+✅ **Visualizar os lugares**.
+
+## 🛠️ Tecnologias Utilizadas
+
+🔹 **AngularJS**
+
+🔹 **Tailwind CSS**
+
+🔹 **NodeJS**
+
+🔹 **Docker**
+
+---
+
+## 🖥️ Interface da Aplicação
+
+### **Tela Antes de Logar**
+![Tela Antes de Logar](./src//assets/home.png)
+
+### **Tela Após Logar**
+![Tela Após Logar](./src//assets/home2.png)
+
+### **Tela Cadastro de Categorias**
+![Tela Cadastro de Lugares](./src//assets/cad-categorias.png)
+
+### **Tela Cadastro de Categorias**
+![Tela Cadastro de Lugares](./src//assets/cad-lugares.png)
+
+### **Galeria**
+![Galeria](./src//assets/galeria.png)
+
+---
+
+## 🔧 Como Executar o Projeto
+
+Clone este repositório:
 ```bash
-ng serve
+ git clone https://github.com/Fernando32117/Lugares-Favoritos-Angular.git
 ```
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
-
-## Code scaffolding
-
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
-
+Acesse a pasta do projeto:
 ```bash
-ng generate component component-name
+ cd Lugares-Favoritos-Angular
+ npm install
 ```
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
-
+Execute a api dentro da pasta api do projeto:
 ```bash
-ng generate --help
+ npm run server
 ```
+- O backend rodará na porta `3000`.
 
-## Building
-
-To build the project run:
-
+Execute o front na pasta raiz do projeto:
 ```bash
-ng build
+ ng serve
 ```
+- Abra o navegador e acesse `http://localhost:4200` onde a aplicação estará rodando.
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
+---
 
-## Running unit tests
+## 📩 Contato
 
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
+Se tiver alguma sugestão ou dúvida, sinta-se à vontade para entrar em contato:
 
-```bash
-ng test
-```
+📧 **Email:** [Gmail](nando32117@gmail.com)
+💼 **LinkedIn:** [Fernando Souza](https://www.linkedin.com/in/gerfernandosouza/)
 
-## Running end-to-end tests
+Se este projeto foi útil para você, deixe uma ⭐ e contribua com melhorias! 🚀
 
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+---
