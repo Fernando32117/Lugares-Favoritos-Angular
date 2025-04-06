@@ -34,9 +34,9 @@ Este é um projeto desenvolvido durante o curso de Angular 19 na Udmey, buscando
 ![Tela Após Logar](./src//assets/home2.png)
 
 ### **Tela Cadastro de Categorias**
-![Tela Cadastro de Lugares](./src//assets/cad-categorias.png)
+![Tela Cadastro de Categorias](./src//assets/cad-categorias.png)
 
-### **Tela Cadastro de Categorias**
+### **Tela Cadastro de Lugares**
 ![Tela Cadastro de Lugares](./src//assets/cad-lugares.png)
 
 ### **Galeria**
