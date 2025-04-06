@@ -6,12 +6,17 @@ Este é um projeto desenvolvido durante o curso de Angular 19 na Udmey, buscando
 
 ---
 
+
 ## 🎯 Funcionalidades Principais
 
 ✅ **Logar com Google**.
+
 ✅ **Cadastrar categorias**.
+
 ✅ **Cadastrar lugares**.
+
 ✅ **Visualizar os lugares**.
+
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -24,6 +29,7 @@ Este é um projeto desenvolvido durante o curso de Angular 19 na Udmey, buscando
 🔹 **Docker**
 
 ---
+
 
 ## 🖥️ Interface da Aplicação
 
@@ -43,6 +49,7 @@ Este é um projeto desenvolvido durante o curso de Angular 19 na Udmey, buscando
 ![Galeria](./src//assets/galeria.png)
 
 ---
+
 
 ## 🔧 Como Executar o Projeto
 
@@ -70,6 +77,7 @@ Execute o front na pasta raiz do projeto:
 - Abra o navegador e acesse `http://localhost:4200` onde a aplicação estará rodando.
 
 ---
+
 
 ## 📩 Contato
 
